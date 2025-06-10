@@ -5,10 +5,9 @@ This project applies machine learning techniques to predict Autism Spectrum Diso
 ## 👥 Collaboration
 
 This project was collaboratively built by our team members:
-
+- [Shairin Akter Hashi](https://github.com/Shairin207)  
 - [Nushrat Jaben Aurnima](https://github.com/NushratJabenAurnima)  
 - [Zihad Khan](https://github.com/Zihad107)  
-- [Shairin Akter Hashi](https://github.com/Shairin207)  
 - [MD Shahrukh Hossain Shihab](https://github.com/shihab372)
 
 > _Thanks to everyone for their dedication and effort._
